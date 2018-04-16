@@ -1,0 +1,8 @@
+ext {
+
+    project = [
+
+            projectRes: "src/main/res",
+
+    ]
+}

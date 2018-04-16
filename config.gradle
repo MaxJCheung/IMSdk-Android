@@ -1,0 +1,10 @@
+ext {
+    config = [
+            compileSdkVersion: 26,
+            buildToolsVersion: "26.0.2",
+            minSdkVersion    : 16,
+            targetSdkVersion : 26,
+
+            appcompat_v7              : 'com.android.support:appcompat-v7:25.3.1',
+    ]
+}
